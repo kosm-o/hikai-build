@@ -1,0 +1,20 @@
+{
+    "posts": [
+        
+            {
+                "url": "/posts/js/",
+                "content": "Hello World This is an article about JavaScript. Deal with it."
+            },
+        
+            {
+                "url": "/posts/js2/",
+                "content": "Hello World This is an article about JavaScript. Deal with it."
+            },
+        
+            {
+                "url": "/posts/js3/",
+                "content": "Hello World This is an article about JavaScript. Deal with it."
+            }
+        
+    ]
+}
