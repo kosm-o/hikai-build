@@ -8,7 +8,7 @@
         
             {
                 "url": "/posts/noise_garden/",
-                "content": "noise garden A web based polyphonic synthesizer built using the Web Audio API. The three usual waveform suspects and a random wavetabley option with a simple X/Y interface to control a filter and envelope. Also has support for USB MIDI keyboard control (refresh after plugging in a keyboard). Play the keyboard with the keys in this layout. Behold noise garden (it loads slowly because I don&#39;t want to pay for speed)."
+                "content": "noise garden A web based polyphonic synthesizer built using the Web Audio API. The three usual waveform suspects and a random wavetabley option with a simple X/Y interface to control a filter and envelope. Also has support for USB MIDI keyboard control (refresh after plugging in a keyboard). Play the keyboard with the keys in this layout. Behold noise garden."
             }
         
     ]
