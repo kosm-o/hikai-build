@@ -3,7 +3,22 @@
         
             {
                 "url": "/posts/kinect_instrument/",
-                "content": "kinect instrument I love that feeling dancing to some music and I feel like I am totally connected to it. The beats, the melodies, I can just feel them with my whole being. It&#39;s like I&#39;m a part of the song and we move together. I want to capture this feeling in an immersive and immediate movement experience, where body and music are one, but where movement is the driving force. Full form expressive dancing/wiggling/anything transformed into sound.  https://www.youtube.com/watch?v=8z4tCt_v9Eg"
+                "content": "kinect instrument I love that feeling when I&#39;m dancing to some music and I feel like I&#39;m totally connected to it. The beats, the melodies, I can just feel them with my whole being. It&#39;s like I&#39;m a part of the song and we move together. I want to capture this feeling in an immersive and immediate movement experience, where body and music are one, but where movement is the driving force. Full form expressive dancing/wiggling/anything transformed into sound.  https://www.youtube.com/watch?v=8z4tCt_v9Eg"
+            },
+        
+            {
+                "url": "/posts/tarot_garden/",
+                "content": "tarot garden In the search for growth and self actualization there are many things to turn to like dirt and friends. But at times I need something more intangible, beyond these physical confines. I&#39;ve found tarot to be a nice pocket sized gateway to some spiritual guidance. Some say it&#39;s based in a thousands year old tradition, perhaps due for some freshening up. In my tarot-pulling-introspective-journaling practice I often wished I had a nice place to keep track of it all, separate from my earthly journaling. So I made tarot garden (it loads slowly because I don&#39;t want to pay for speed). Tarot made easy with links to my favorite tarot interpretations for each card. Sign up today! (don&#39;t forget your password or you will be locked out forever until I build a forgot your password thing which may be never)"
+            },
+        
+            {
+                "url": "/posts/noise_garden/",
+                "content": "noise garden A web based polyphonic synthesizer built using the Web Audio API. The three usual waveform suspects and a random wavetabley option with a simple X/Y interface to control a filter and envelope. Also has support for USB MIDI keyboard control (refresh after plugging in a keyboard). Play the keyboard with the keys in this layout. Behold noise garden (it loads slowly because I don&#39;t want to pay for speed)."
+            },
+        
+            {
+                "url": "/posts/generative visuals/",
+                "content": "generative visuals Using Processing and p5.js to create generative visual art. Captured on my some.lines Instagram account."
             }
         
     ]
